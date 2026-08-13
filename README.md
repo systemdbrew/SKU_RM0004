@@ -5,7 +5,7 @@ The project supports running on RaspberryPi, Ubuntu, [HomeAssistant](https://git
 ## Deployment service
 >  Clone SKU_RM0004 library 
 ```bash
-git clone https://github.com/UCTRONICS/SKU_RM0004.git
+git clone https://github.com/systemdbrew/SKU_RM0004.git
 ```
 > Compile 
 ```bash
