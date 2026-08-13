@@ -14,7 +14,7 @@ int main(void)
 	
 	if(lcd_begin())      //LCD Screen initialization
 	{
-		return 0;
+		return 1;
 	}
 	sleep(1);
 	while(1)
